@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SY\\git\\ComparisonTask-exp\\Comparison-HMD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED10F0D2-E1E2-3F7B-974E-B656710B0064}|Assembly-CSharp.csproj|c:\\users\\sy\\git\\comparisontask-exp\\comparison-hmd\\assets\\1.scripts\\mainsession\\stimulimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED10F0D2-E1E2-3F7B-974E-B656710B0064}|Assembly-CSharp.csproj|solutionrelative:assets\\1.scripts\\mainsession\\stimulimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED10F0D2-E1E2-3F7B-974E-B656710B0064}|Assembly-CSharp.csproj|c:\\users\\sy\\git\\comparisontask-exp\\comparison-hmd\\assets\\1.scripts\\mainsession\\sessionlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED10F0D2-E1E2-3F7B-974E-B656710B0064}|Assembly-CSharp.csproj|solutionrelative:assets\\1.scripts\\mainsession\\sessionlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED10F0D2-E1E2-3F7B-974E-B656710B0064}|Assembly-CSharp.csproj|c:\\users\\sy\\git\\comparisontask-exp\\comparison-hmd\\assets\\1.scripts\\replaytool\\replaymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED10F0D2-E1E2-3F7B-974E-B656710B0064}|Assembly-CSharp.csproj|solutionrelative:assets\\1.scripts\\replaytool\\replaymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED10F0D2-E1E2-3F7B-974E-B656710B0064}|Assembly-CSharp.csproj|c:\\users\\sy\\git\\comparisontask-exp\\comparison-hmd\\assets\\1.scripts\\mainsession\\conditionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED10F0D2-E1E2-3F7B-974E-B656710B0064}|Assembly-CSharp.csproj|solutionrelative:assets\\1.scripts\\mainsession\\conditionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED10F0D2-E1E2-3F7B-974E-B656710B0064}|Assembly-CSharp.csproj|C:\\Users\\SY\\git\\ComparisonTask-exp\\Comparison-HMD\\assets\\1.scripts\\mainsession\\panelsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED10F0D2-E1E2-3F7B-974E-B656710B0064}|Assembly-CSharp.csproj|solutionrelative:assets\\1.scripts\\mainsession\\panelsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED10F0D2-E1E2-3F7B-974E-B656710B0064}|Assembly-CSharp.csproj|C:\\Users\\SY\\git\\ComparisonTask-exp\\Comparison-HMD\\assets\\1.scripts\\mainsession\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED10F0D2-E1E2-3F7B-974E-B656710B0064}|Assembly-CSharp.csproj|solutionrelative:assets\\1.scripts\\mainsession\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED10F0D2-E1E2-3F7B-974E-B656710B0064}|Assembly-CSharp.csproj|C:\\Users\\SY\\git\\ComparisonTask-exp\\Comparison-HMD\\assets\\1.scripts\\practicesession\\practicetaskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED10F0D2-E1E2-3F7B-974E-B656710B0064}|Assembly-CSharp.csproj|solutionrelative:assets\\1.scripts\\practicesession\\practicetaskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReplayManager.cs",
+              "DocumentMoniker": "C:\\Users\\SY\\git\\ComparisonTask-exp\\Comparison-HMD\\Assets\\1.Scripts\\ReplayTool\\ReplayManager.cs",
+              "RelativeDocumentMoniker": "Assets\\1.Scripts\\ReplayTool\\ReplayManager.cs",
+              "ToolTip": "C:\\Users\\SY\\git\\ComparisonTask-exp\\Comparison-HMD\\Assets\\1.Scripts\\ReplayTool\\ReplayManager.cs",
+              "RelativeToolTip": "Assets\\1.Scripts\\ReplayTool\\ReplayManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T01:46:45.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SessionLogger.cs",
+              "DocumentMoniker": "C:\\Users\\SY\\git\\ComparisonTask-exp\\Comparison-HMD\\Assets\\1.Scripts\\MainSession\\SessionLogger.cs",
+              "RelativeDocumentMoniker": "Assets\\1.Scripts\\MainSession\\SessionLogger.cs",
+              "ToolTip": "C:\\Users\\SY\\git\\ComparisonTask-exp\\Comparison-HMD\\Assets\\1.Scripts\\MainSession\\SessionLogger.cs",
+              "RelativeToolTip": "Assets\\1.Scripts\\MainSession\\SessionLogger.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAuwBgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T01:42:44.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StimuliManager.cs",
+              "DocumentMoniker": "C:\\Users\\SY\\git\\ComparisonTask-exp\\Comparison-HMD\\Assets\\1.Scripts\\MainSession\\StimuliManager.cs",
+              "RelativeDocumentMoniker": "Assets\\1.Scripts\\MainSession\\StimuliManager.cs",
+              "ToolTip": "C:\\Users\\SY\\git\\ComparisonTask-exp\\Comparison-HMD\\Assets\\1.Scripts\\MainSession\\StimuliManager.cs",
+              "RelativeToolTip": "Assets\\1.Scripts\\MainSession\\StimuliManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T01:42:28.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConditionManager.cs",
+              "DocumentMoniker": "C:\\Users\\SY\\git\\ComparisonTask-exp\\Comparison-HMD\\Assets\\1.Scripts\\MainSession\\ConditionManager.cs",
+              "RelativeDocumentMoniker": "Assets\\1.Scripts\\MainSession\\ConditionManager.cs",
+              "ToolTip": "C:\\Users\\SY\\git\\ComparisonTask-exp\\Comparison-HMD\\Assets\\1.Scripts\\MainSession\\ConditionManager.cs",
+              "RelativeToolTip": "Assets\\1.Scripts\\MainSession\\ConditionManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T01:41:36.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PanelSettings.cs",
+              "DocumentMoniker": "C:\\Users\\SY\\git\\ComparisonTask-exp\\Comparison-HMD\\Assets\\1.Scripts\\MainSession\\PanelSettings.cs",
+              "RelativeDocumentMoniker": "Assets\\1.Scripts\\MainSession\\PanelSettings.cs",
+              "ToolTip": "C:\\Users\\SY\\git\\ComparisonTask-exp\\Comparison-HMD\\Assets\\1.Scripts\\MainSession\\PanelSettings.cs",
+              "RelativeToolTip": "Assets\\1.Scripts\\MainSession\\PanelSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T01:40:36.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskManager.cs",
+              "DocumentMoniker": "C:\\Users\\SY\\git\\ComparisonTask-exp\\Comparison-HMD\\Assets\\1.Scripts\\MainSession\\TaskManager.cs",
+              "RelativeDocumentMoniker": "Assets\\1.Scripts\\MainSession\\TaskManager.cs",
+              "ToolTip": "C:\\Users\\SY\\git\\ComparisonTask-exp\\Comparison-HMD\\Assets\\1.Scripts\\MainSession\\TaskManager.cs",
+              "RelativeToolTip": "Assets\\1.Scripts\\MainSession\\TaskManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T09:22:58.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PracticeTaskManager.cs",
+              "DocumentMoniker": "C:\\Users\\SY\\git\\ComparisonTask-exp\\Comparison-HMD\\Assets\\1.Scripts\\PracticeSession\\PracticeTaskManager.cs",
+              "RelativeDocumentMoniker": "Assets\\1.Scripts\\PracticeSession\\PracticeTaskManager.cs",
+              "ToolTip": "C:\\Users\\SY\\git\\ComparisonTask-exp\\Comparison-HMD\\Assets\\1.Scripts\\PracticeSession\\PracticeTaskManager.cs",
+              "RelativeToolTip": "Assets\\1.Scripts\\PracticeSession\\PracticeTaskManager.cs",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAkwAAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T08:03:21.73Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UVRLab\\Documents\\SY\\Comparison-Desktop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27ED6216-DE8E-E492-69A7-236FF2FC6C1E}|Assembly-CSharp.csproj|C:\\Users\\UVRLab\\Documents\\SY\\Comparison-Desktop\\assets\\1.scripts\\trackingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27ED6216-DE8E-E492-69A7-236FF2FC6C1E}|Assembly-CSharp.csproj|solutionrelative:assets\\1.scripts\\trackingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27ED6216-DE8E-E492-69A7-236FF2FC6C1E}|Assembly-CSharp.csproj|c:\\users\\uvrlab\\documents\\sy\\comparison-desktop\\assets\\1.scripts\\sessioninfoeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27ED6216-DE8E-E492-69A7-236FF2FC6C1E}|Assembly-CSharp.csproj|solutionrelative:assets\\1.scripts\\sessioninfoeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27ED6216-DE8E-E492-69A7-236FF2FC6C1E}|Assembly-CSharp.csproj|C:\\Users\\UVRLab\\Documents\\SY\\Comparison-Desktop\\assets\\1.scripts\\sessioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27ED6216-DE8E-E492-69A7-236FF2FC6C1E}|Assembly-CSharp.csproj|solutionrelative:assets\\1.scripts\\sessioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27ED6216-DE8E-E492-69A7-236FF2FC6C1E}|Assembly-CSharp.csproj|C:\\Users\\UVRLab\\Documents\\SY\\Comparison-Desktop\\assets\\1.scripts\\networkmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27ED6216-DE8E-E492-69A7-236FF2FC6C1E}|Assembly-CSharp.csproj|solutionrelative:assets\\1.scripts\\networkmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NetworkManager.cs",
+              "DocumentMoniker": "C:\\Users\\UVRLab\\Documents\\SY\\Comparison-Desktop\\Assets\\1.Scripts\\NetworkManager.cs",
+              "RelativeDocumentMoniker": "Assets\\1.Scripts\\NetworkManager.cs",
+              "ToolTip": "C:\\Users\\UVRLab\\Documents\\SY\\Comparison-Desktop\\Assets\\1.Scripts\\NetworkManager.cs",
+              "RelativeToolTip": "Assets\\1.Scripts\\NetworkManager.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAIwC8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T05:31:48.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SessionInfo.cs",
+              "DocumentMoniker": "C:\\Users\\UVRLab\\Documents\\SY\\Comparison-Desktop\\Assets\\1.Scripts\\SessionInfo.cs",
+              "RelativeDocumentMoniker": "Assets\\1.Scripts\\SessionInfo.cs",
+              "ToolTip": "C:\\Users\\UVRLab\\Documents\\SY\\Comparison-Desktop\\Assets\\1.Scripts\\SessionInfo.cs",
+              "RelativeToolTip": "Assets\\1.Scripts\\SessionInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T05:08:16.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SessionInfoEditor.cs",
+              "DocumentMoniker": "C:\\Users\\UVRLab\\Documents\\SY\\Comparison-Desktop\\Assets\\1.Scripts\\SessionInfoEditor.cs",
+              "RelativeDocumentMoniker": "Assets\\1.Scripts\\SessionInfoEditor.cs",
+              "ToolTip": "C:\\Users\\UVRLab\\Documents\\SY\\Comparison-Desktop\\Assets\\1.Scripts\\SessionInfoEditor.cs",
+              "RelativeToolTip": "Assets\\1.Scripts\\SessionInfoEditor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T05:08:13.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TrackingManager.cs",
+              "DocumentMoniker": "C:\\Users\\UVRLab\\Documents\\SY\\Comparison-Desktop\\Assets\\1.Scripts\\TrackingManager.cs",
+              "RelativeDocumentMoniker": "Assets\\1.Scripts\\TrackingManager.cs",
+              "ToolTip": "C:\\Users\\UVRLab\\Documents\\SY\\Comparison-Desktop\\Assets\\1.Scripts\\TrackingManager.cs",
+              "RelativeToolTip": "Assets\\1.Scripts\\TrackingManager.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T08:56:31.096Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
