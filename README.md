@@ -1,5 +1,12 @@
-﻿# HybridInterfaceStudy
-This respository contains a prototype of a hybrid AR interface that combines the HoloLens 2 with a mobile phone. It includes a study task application designed to evaluate the interface.
+﻿# Overview
+This repository contains a prototype of a hybrid AR interface that integrates the HoloLens 2 with a mobile phone. It also includes a study task application developed to evaluate the interface.
+
+The repository is divided into three separate Unity projects:
+* **Hybrid-Desktop**: 2 desktop applications
+  * Experimenter App - guides & monitors participants during the study
+  * Replayer App - plays back & visualizes participant behaviors using collected data
+* **Hybrid-HMD**: AR application for HoloLens
+* **Hybrid-smartphone**: smartphone application
 
 # Setup
 Required Applications:
