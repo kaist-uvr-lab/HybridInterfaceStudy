@@ -3,8 +3,8 @@ This repository contains a prototype of a hybrid AR interface that integrates th
 
 The repository is divided into three separate Unity projects:
 * **Hybrid-Desktop**: 2 desktop applications
-  * Experimenter App - guides & monitors participants during the study
-  * Replayer App - plays back & visualizes participant behaviors using collected data
+  * Experiment App - guides & monitors participants during the study
+  * Replay App - plays back & visualizes participant behaviors using collected data
 * **Hybrid-HMD**: AR application for HoloLens
 * **Hybrid-smartphone**: smartphone application
 
@@ -21,30 +21,30 @@ Packages:
 * OpenXR Plugin v1.8.2
 * Photon Unity Networking Plugin v2.41
 
-# Experimenter Application
-* Open scene in Unity: ```Assets/0.Scenes/ExperimentTool.unity```
-* Run in Unity editor
+# Experiment Application
+1. Open scene in Unity: ```Assets/0.Scenes/ExperimentTool.unity```
+2. Run the application in Unity editor
+3. In **SessionManager** component, enter the **Study Session Info** (```userID```, ```conditionID```)
+4. Press Start Session button
 
-# Replayer Application
-* Open scene in Unity: ```Assets/0.Scenes/ReplayTool.unity```
-* Run in Unity editor
+# Replay Application
+1. Open scene in Unity: ```Assets/0.Scenes/ReplayTool.unity```
+3. In **ReplayManager** component, enter the ```UserID```, ```ConditionID```, ```Folderpath``` to your csv file
+4. Run the application in Unity editor
 
 # AR Application
-* Build:
-  * Open scene in Unity: ```Assets/0.Scenes/MainSessionHMD.unity```
-  * Switch to Universal Windows Platform
-  * Set build settings to the following and build:
+1. Open scene in Unity: ```Assets/0.Scenes/MainSessionHMD.unity```
+2. Switch to Universal Windows Platform
+3. Set build settings to the following and build project:
     * Set Build Type to D3D Project
     * Set Target SDK Version to Latest installed
     * Set Minimum Platform Version to 10.0.10240.0
     * Set Visual Studio Version to Latest installed
-* Deploy:
-  * Follow [MRTK deployment tutorial](https://learn.microsoft.com/en-us/windows/mixed-reality/develop/advanced-concepts/using-visual-studio?tabs=hl2)
+4. Deploy app to the HoloLens, following the [MRTK deployment tutorial](https://learn.microsoft.com/en-us/windows/mixed-reality/develop/advanced-concepts/using-visual-studio?tabs=hl2)
  
 # Smartphone Application:
-* Build:
-  * Open scene in Unity: ```Assets/0.Scenes/SPview.unity```
-  * Switch to Android
+1. Open scene in Unity: ```Assets/0.Scenes/SPview.unity```
+2. Switch to Android and build project
 
 # Acknowledgements
 이 프로젝트는 2019년도 정부(과학기술정보통신부)의 재원으로 정보통신기획평가원의 지원을 받아 수행된 프로젝트임 (No.2019-0-01270,스마트 안경을 위한 WISE AR UI/UX 플랫폼 개발)
