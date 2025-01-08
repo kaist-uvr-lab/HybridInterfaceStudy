@@ -7,11 +7,11 @@ using UnityEngine.Networking;
 public class StimuliManager : MonoBehaviour
 {
     //google sheets info
-    private const string sheetID = "1wxlpWjZR8X1VlG5q-NRDfMmmSDfrZOguXah5CWfnITk";
+    private const string sheetID; // assign your google sheet ID
     private const string sheetName = "finalSet";
-    private const string sheetKey = "AIzaSyBl3m0-3xrWJ2yICMPnk8TU2G01ZkT2ZYk";
+    private const string sheetKey; // assign your google sheet key
     private string sheetURL = $"https://sheets.googleapis.com/v4/spreadsheets/{sheetID}/values/{sheetName}/?key={sheetKey}";
-    private const string driveKey = "AIzaSyCZWHHsxClqix5wWqzTaJ9niwsohRfvvBE";
+    private const string driveKey; // assign your google drive key
     private string ImgURL(string id) => $"https://www.googleapis.com/drive/v3/files/{id}?alt=media&key={driveKey}";
     
     private bool isDownloaded = false;
